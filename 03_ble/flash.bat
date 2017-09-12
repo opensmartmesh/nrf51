@@ -1,1 +1,1 @@
-cp .\BUILD\NRF51_DONGLE\GCC_ARM\02_uart.hex J:\
+cp .\BUILD\NRF51_DONGLE\GCC_ARM\03_ble.hex J:\
